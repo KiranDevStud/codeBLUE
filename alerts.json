@@ -31,6 +31,20 @@
         {"title":"Corona Alert",
          "subtitle":"Be safe from covid"},
         {"title":"SunBurn Alert",
-         "subtitle":"Be alert of the heavy temperature outside"}
+         "subtitle":"Be alert of the heavy temperature outside"},
+        {"title":"Lightning Alert",
+         "subtitle":"Be alert of upcoming lightning"},
+        {"title":"Heavy Rainfall",
+         "subtitle":"Heavy rainfall along with thunderstorm approaching"},
+        {"title":"Flash-flood Alert",
+         "subtitle":"Flash flood alert due to extensive rainfall"},
+        {"title":"Hailstorm Alert",
+         "subtitle":"High chance of hailstorm today"},
+        {"title":"Fog Alert",
+         "subtitle":"Heavy fog expected in the morning"},
+        {"title":"Smog Alert",
+         "subtitle":"Take care in the smogy weather"},
+        {"title":"Heavy rain and lightning",
+         "subtitle":"Heavy rainfall along with lightning and thunder expected today"},
     ]
 }
