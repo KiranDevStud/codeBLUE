@@ -1,0 +1,8 @@
+{
+    "alerts":[
+        {"Cyclone Alert":"Heavy Cyclone coming Ahead"},
+        {"Heavy Wind Alert":"Heavy wind of speed 70Km/h is coming ahead"},
+        {"Corona Alert":"Be safe from covid"},
+        {"SunBurn Alert":"Be alert of the heavy temperature outside"}
+    ]
+}
